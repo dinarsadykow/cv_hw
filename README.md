@@ -1,1 +1,1 @@
-HW from Vacancies
+HW from Vacancies (DA/DE)
