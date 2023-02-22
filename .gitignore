@@ -4,3 +4,5 @@
 .bsp
 *.jar
 target
+*.csv
+*.txt
